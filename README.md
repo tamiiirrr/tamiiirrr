@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tamiiirrr
-- 👀 I’m interested in web apps, Php, CSS, HTML, Javascript, Python, SQL, LINUX, Debian and others
+- 👀 I’m interested in web apps, Php, CSS, HTML, Javascript, Python, SQL, LINUX, Debian, Sphinx and others
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
